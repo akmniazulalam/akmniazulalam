@@ -13,9 +13,9 @@
 
 - 👯 I’m looking to collaborate on **Chatting Application**
 
-- 💬 Ask me about **HTML, CSS, Bootstrap**
+- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, Tailwind CSS, React.JS**
 
-- 📫 How to reach me **nokibn570@gmail.com**
+- 📫 How to reach me **niazulalam097@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
